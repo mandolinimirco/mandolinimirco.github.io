@@ -1,0 +1,21 @@
+#navbar
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(36, 36, 201);
+    z-index: 1;
+    margin: 0;
+}
+
+.link:hover
+{
+    font-weight:bolder;
+    /* border: 2px solid white;
+    border-radius: 5px; */
+}
+
+.nav-link
+{
+    padding: 5px;
+}
+
